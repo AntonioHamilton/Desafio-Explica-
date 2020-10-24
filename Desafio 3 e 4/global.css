@@ -1,0 +1,15 @@
+* {
+  font-family: "Nunito", sans-serif;
+  --background-color: #f0f8ff;
+  --wrap-text-color: #fff;
+  --text-color: #000;
+  --wrap-color: #333;
+  --button-color: #16b7a8;
+}
+
+html,
+body {
+  background: var(--background-color);
+  margin: 0;
+  padding: 0;
+}

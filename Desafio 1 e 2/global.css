@@ -1,0 +1,12 @@
+* {
+  font-family: "Nunito", sans-serif;
+  --background-color: #f0f8ff;
+  --random-number: #ff00ff;
+}
+
+html,
+body {
+  background: var(--background-color);
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,26 @@
+#container-table {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.table {
+  width: 40vw;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.table td {
+  padding: 20px 10px;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  border: 1px solid #aaa;
+}
+
+.random-number {
+  font-weight: 800 !important;
+  color: var(--random-number);
+}
